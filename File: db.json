@@ -1,0 +1,36 @@
+{
+"leads": [
+{
+"id": 1,
+"customerName": "Acme Trading PLC",
+"category": "Corporate",
+"primaryContact": {
+"name": "Eleni Bekele",
+"position": "General Manager",
+"phone": "+251911000000",
+"email": "eleni@acme.com"
+},
+"secondaryContact": {
+"name": "Abebe Tesfaye",
+"position": "Finance Head",
+"phone": "+251911111111",
+"email": "abebe@acme.com"
+},
+"physicalAddress": "Addis Ababa, Bole",
+"status": "new",
+"flags": [],
+"activities": [
+{
+"id": 1,
+"type": "call",
+"date": "2025-11-20",
+"notes": "Left voicemail - requested to call back in 3 days",
+"outcome": "to_be_contacted_again",
+"followUpDate": "2025-11-23"
+}
+],
+"createdAt": "2025-11-20T10:00:00Z",
+"updatedAt": "2025-11-20T10:00:00Z"
+}
+]
+}
